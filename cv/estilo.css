@@ -1,0 +1,107 @@
+.barra_izq{
+  background-color: #006666;
+  width: 30%;
+  float: left;
+  margin-top: 1%;
+  padding: 0.5em 5px;
+}
+.ladoderecho{
+  float: right;
+  width: 68%;
+  margin-top: 1%;
+  background-color: rgba(198, 254, 190, 0.1);
+}
+.fuentebarraizq{
+  font-family: "Montserrat", sans-serif;
+  padding-left: 1em;
+  color: white;
+}
+.hobbies{
+  align-items: center;
+  margin-left: 12%;
+}
+.hobbies a{
+  text-decoration: none;
+}
+.hobbies a{
+  color: white;
+}
+.hobbies a:hover{
+  color: black;
+}
+.sombra{
+  box-shadow: 0 4px 10px 0 rgba(0,0,0,0.2), 0 4px 20px 0 rgba(0,0,0,0.19);
+}
+.foto{
+  width: 90%;
+}
+.lista{
+  list-style: none;
+}
+
+.contacto{
+  background-color: #004d4d;
+  line-height: 3em;
+}
+.links{
+  text-decoration: none;
+  color: white;
+}
+.datos{
+  font-family: "Raleway", sans-serif;
+  margin-left: 1.4em;
+  text-align: left;
+  color: white;
+  display: flex;
+}
+.datos2{
+  font-family: "Raleway", sans-serif;
+  padding-left: 1em;
+  margin-top: 4em;
+  line-height: 3em;
+  color: white;
+}
+.datos3{
+  font-family: "Raleway", sans-serif;
+  padding-left: 5.4em;
+  color: white;
+}
+.iconmargin{
+  margin-right: 1em;
+}
+.iconmargin2{
+  margin-top: 10%;
+}
+.barracont{
+  background-color: #f1f1f1;
+  border-radius: 16px;
+}
+.barracolor{
+  background-color: #009688;
+  padding: 0.5em 1px;
+  border-radius: 16px;
+  line-height: 10px;
+}
+.nombre{
+  font-family: "Montserrat", sans-serif;
+  text-align: right;
+  margin-right: 4em;
+}
+p{
+  font-family: "Roboto", sans-serif;
+  margin-bottom: 2em;
+}
+h3{
+  font-family: "Raleway", sans-serif;
+  margin-top: 3em;
+  margin-left: 1em;
+}
+.fecha{
+  font-family: "Raleway", sans-serif;
+  color: red;
+}
+h4{
+  font-family: "Raleway", sans-serif;
+  font-style: italic;
+  margin-top: -0.3em;
+}
